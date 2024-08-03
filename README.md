@@ -5,9 +5,6 @@ https://github.com/user-attachments/assets/b19ee5a5-570f-4d5f-a608-eccabaa0fb6c
 
 
 
-https://github.com/user-attachments/assets/86617088-fb99-488f-9796-555981bdda36
-
-
 A new Flutter project.
 
 ## Getting Started
